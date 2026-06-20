@@ -1,0 +1,14 @@
+# Instalare pe Pi:
+#   pip install -r requirements.txt
+#
+# NOTA: picamera2 si opencv se instaleaza mai bine via apt:
+#   sudo apt install -y python3-picamera2 python3-opencv
+#   pip install opencv-contrib-python  (pentru ChArUco / aruco)
+#
+# Hailo SDK se instaleaza separat via pachetul lor oficial (deja instalat).
+
+numpy
+pyserial
+adafruit-circuitpython-icm20x
+adafruit-blinka
+obd

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+calibration/images/
+stereo_calib.npz
+*.log
